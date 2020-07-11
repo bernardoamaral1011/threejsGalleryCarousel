@@ -1,7 +1,3 @@
-# threejsGalleryCarousel
-Simple and customizable threejs gallery carousel
-
-
 # Threejs Gallery Carousel
 
 > simple gallery carousel made with three.js
